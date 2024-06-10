@@ -1,1 +1,1 @@
-## Investment-Insignts
+## investment-insights
