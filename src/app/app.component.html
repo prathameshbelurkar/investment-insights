@@ -2,8 +2,5 @@
 
 <main>
   <app-user-input (calculate)="onCalculateInvestmentResults($event)" />
-
-  @if (annualData) {
-  <p>Works</p>
-  }
+  <app-investment-results [results]="resultsData" />
 </main>
